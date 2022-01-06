@@ -15,9 +15,13 @@ h1{
 .stay-focused{
     display: flex;
 }
+.pad{
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
 .first-module{
     width: 50%;
-    padding: 20px;
+    padding: 30px;
     /* padding-top: 20px;
     padding-bottom: 10px; */
 }
