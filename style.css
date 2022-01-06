@@ -1,0 +1,40 @@
+body{
+    font-family: 'Be Vietnam Pro', sans-serif;
+    font-family: 'Luxurious Roman', cursive;
+    font-family: 'Mukta', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto', sans-serif;
+}
+h1{
+    font-size: 50px;
+}
+.color{
+    color: rgb(221, 52, 10);
+}
+section{
+    display: flex;
+}
+.first-module{
+    width: 50%;
+    padding: 20px;
+}
+.first-module img{
+    width: 80%;
+    height: 70%;
+    padding-bottom: 10%;
+    padding-left: 5%;
+
+}
+.explore-button{
+    text-decoration: none;
+    color:black;
+    background-color: grayscale;
+    background-image: linear-gradient(rgb(197, 165, 106), rgb(175, 42, 18));
+    padding: 50px, 100px;
+    border-radius: 10px;
+    font-weight: 600px;
+    
+}
+.stay-focused{
+
+}
